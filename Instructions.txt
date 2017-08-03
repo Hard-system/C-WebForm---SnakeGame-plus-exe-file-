@@ -1,0 +1,3 @@
+The project works fine but the arrows for controlling the snake
+do not respond very good and fast, so that must be improved!
+
